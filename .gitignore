@@ -1,0 +1,7 @@
+# no tokens nunca
+.env
+tokens.txt
+
+# node y clasp artefactos
+node_modules/
+.clasp.json
