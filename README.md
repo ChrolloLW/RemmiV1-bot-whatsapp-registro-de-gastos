@@ -1,5 +1,4 @@
 # RemmiV1 — WhatsApp Expense Logger
-### por **Manuel Cárdenas Moza**
 
 > 🇺🇸 English instructions are below this Spanish section.
 
@@ -116,8 +115,6 @@ copia octubre
 
 ---
 
-## 👨‍💻 Autor
-**Manuel Cárdenas Moza**  
 Apps Script + Meta Cloud API + Google Sheets
 
 ---
@@ -211,6 +208,6 @@ copia october
 | empty report | no data for requested period |
 
 ---
-
+Autor: Manuel Cardenas M
 ### 👨‍💻 Author
 **Manuel Cárdenas Moza**
