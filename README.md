@@ -68,7 +68,6 @@ Apps Script → Project Settings → Script Properties
 | META_PHONE_NUMBER_ID | ID numérico del número WA Cloud |
 | META_ACCESS_TOKEN | access token **permanente** |
 
-> ⚠️ **No subas estos valores a GitHub** (mantener en Script Properties)
 
 ---
 
